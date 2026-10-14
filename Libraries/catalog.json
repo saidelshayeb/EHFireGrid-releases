@@ -1,0 +1,80 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-02-15",
+  "categories": [
+    {
+      "name": "Steel",
+      "description": "Steel pipe fittings for fire protection (Schedule 40/10)",
+      "path": "Steel",
+      "items": [
+        { "file": "Elbow_Steel_90.rfa", "name": "Elbow - Steel 90°", "size": "~200 KB" },
+        { "file": "Elbow_Steel_45.rfa", "name": "Elbow - Steel 45°", "size": "~180 KB" },
+        { "file": "Elbow_Steel_90_Grooved.rfa", "name": "Elbow - Steel 90° Grooved", "size": "~220 KB" },
+        { "file": "Tee_Steel.rfa", "name": "Tee - Steel", "size": "~250 KB" },
+        { "file": "Tee_Steel_Grooved.rfa", "name": "Tee - Steel Grooved", "size": "~270 KB" },
+        { "file": "Tee_Steel_Reducing.rfa", "name": "Tee - Steel Reducing", "size": "~260 KB" },
+        { "file": "Union_Steel.rfa", "name": "Union - Steel", "size": "~150 KB" },
+        { "file": "Coupling_Steel.rfa", "name": "Coupling - Steel", "size": "~140 KB" },
+        { "file": "Coupling_Grooved.rfa", "name": "Coupling - Grooved", "size": "~160 KB" },
+        { "file": "Reducer_Steel_Concentric.rfa", "name": "Reducer - Steel Concentric", "size": "~180 KB" },
+        { "file": "Reducer_Steel_Eccentric.rfa", "name": "Reducer - Steel Eccentric", "size": "~180 KB" },
+        { "file": "Cap_Steel.rfa", "name": "Cap - Steel", "size": "~120 KB" },
+        { "file": "Cross_Steel.rfa", "name": "Cross - Steel", "size": "~280 KB" }
+      ]
+    },
+    {
+      "name": "CPVC",
+      "description": "CPVC Schedule 80 fittings for light hazard fire sprinkler systems (NFPA 13 compliant)",
+      "path": "CPVC",
+      "items": [
+        { "file": "Elbow_CPVC_90.rfa", "name": "Elbow - CPVC 90°", "size": "~180 KB" },
+        { "file": "Elbow_CPVC_45.rfa", "name": "Elbow - CPVC 45°", "size": "~160 KB" },
+        { "file": "Tee_CPVC.rfa", "name": "Tee - CPVC", "size": "~220 KB" },
+        { "file": "Coupling_CPVC.rfa", "name": "Coupling - CPVC", "size": "~130 KB" },
+        { "file": "Reducer_CPVC.rfa", "name": "Reducer - CPVC", "size": "~150 KB" },
+        { "file": "Cap_CPVC.rfa", "name": "Cap - CPVC", "size": "~110 KB" }
+      ]
+    },
+    {
+      "name": "Copper",
+      "description": "Copper sweat fittings for fire protection",
+      "path": "Copper",
+      "items": [
+        { "file": "Elbow_Copper_90.rfa", "name": "Elbow - Copper 90°", "size": "~150 KB" },
+        { "file": "Elbow_Copper_45.rfa", "name": "Elbow - Copper 45°", "size": "~140 KB" },
+        { "file": "Tee_Copper.rfa", "name": "Tee - Copper", "size": "~200 KB" },
+        { "file": "Coupling_Copper.rfa", "name": "Coupling - Copper", "size": "~120 KB" }
+      ]
+    },
+    {
+      "name": "Grooved",
+      "description": "Victaulic-style grooved fittings for steel pipe",
+      "path": "Grooved",
+      "items": [
+        { "file": "Elbow_Grooved_90.rfa", "name": "Elbow - Grooved 90°", "size": "~220 KB" },
+        { "file": "Tee_Grooved.rfa", "name": "Tee - Grooved", "size": "~270 KB" },
+        { "file": "Coupling_Grooved_Rigid.rfa", "name": "Coupling - Grooved Rigid", "size": "~170 KB" },
+        { "file": "Coupling_Grooved_Flexible.rfa", "name": "Coupling - Grooved Flexible", "size": "~170 KB" },
+        { "file": "Reducer_Grooved.rfa", "name": "Reducer - Grooved", "size": "~190 KB" }
+      ]
+    },
+    {
+      "name": "Sprinklers",
+      "description": "Standard coverage sprinkler heads",
+      "path": "Sprinklers",
+      "items": [
+        { "file": "Sprinkler_Pendent_Standard.rfa", "name": "Sprinkler - Pendent Standard", "size": "~300 KB" },
+        { "file": "Sprinkler_Upright_Standard.rfa", "name": "Sprinkler - Upright Standard", "size": "~300 KB" },
+        { "file": "Sprinkler_Sidewall_Standard.rfa", "name": "Sprinkler - Sidewall Standard", "size": "~320 KB" }
+      ]
+    }
+  ],
+  "sources": [
+    { "name": "Victaulic", "url": "https://www.victaulic.com/bim" },
+    { "name": "Anvil International", "url": "https://www.anvilintl.com/en/resources/bim-revit-families" },
+    { "name": "Tyco Fire Protection", "url": "https://www.tyco-fire.com/bim" },
+    { "name": "ASC Engineered Solutions", "url": "https://www.asc-es.com/resources/bim-revit-families" },
+    { "name": "Spears Manufacturing", "url": "https://www.spearsmfg.com/bim-revit-families" },
+    { "name": "Grinnell", "url": "https://www.grinnell.com/bim" }
+  ]
+}
